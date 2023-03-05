@@ -1,1 +1,2 @@
-si mzid 
+git add .
+git commit -m "message"
